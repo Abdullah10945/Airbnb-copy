@@ -1,0 +1,7 @@
+.Logo {
+    transition: transform 0.2s ease;
+  }
+  .Logo:hover {
+    transform: scale(1.1);
+  }
+  
