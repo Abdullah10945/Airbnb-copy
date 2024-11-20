@@ -1,0 +1,36 @@
+.listing-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .listing-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .listing-details {
+    padding: 15px;
+  }
+  
+  .listing-details h5 {
+    margin: 0 0 10px 0;
+  }
+  
+  .listing-details p {
+    margin: 5px 0;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .rating {
+    color: #f39c12;
+  }
+  
